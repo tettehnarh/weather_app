@@ -54,3 +54,7 @@ Manually loading weather icons and ensuring that each weather condition has a co
 ### Responsive Design
 
 Designing the app to be responsive across various devices and screen sizes can be challenging, as it requires careful consideration of layout, breakpoints, and CSS media queries to ensure a consistent user experience.
+
+## Acknowledgements
+
+The Weather App is built based on the tutorial by Brad Traversy as part of the Udemy course "50 Projects In 50 Days - HTML, CSS & JavaScript". My sincere gratitude to Brad Traversy for his valuable teachings and contributions to the development community.
