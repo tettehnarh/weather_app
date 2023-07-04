@@ -2,13 +2,13 @@
 
 This repository contains two projects: one implemented using HTML, CSS, and JavaScript, and the other utilizing the React.js framework. The Weather App provides users with real-time weather information for various locations, making it easy to stay up-to-date with current weather conditions.
 
-To get the current weather data obtain an API key from <link href="https://www.weatherapi.com/" target="_blank">WeatherAPI</link>
+To get the current weather data obtain an API key from <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a>
 
 ## HTML, CSS, and JavaScript Project
 
 The HTML, CSS, and JavaScript project is a straightforward implementation of the CloudWeather App. It consists of static web pages styled using CSS and incorporates JavaScript to fetch weather data from a weather API and display it on the user interface.
 
-In the JavaScript file, replace the api key and base url placeholder obtained from signing up on <link href="https://www.weatherapi.com/" target="_blank">WeatherAPI</link>
+In the JavaScript file, replace the api key and base url placeholder obtained from signing up on <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a>
 
 To run the HTML, CSS, and JavaScript project, simply open the index.html file in your preferred web browser.
 
@@ -16,11 +16,11 @@ To run the HTML, CSS, and JavaScript project, simply open the index.html file in
 
 The React.js project is an enhanced version of the Weather App, leveraging the power and flexibility of the React.js framework. It provides a more dynamic and interactive user experience by utilizing React components and state management.
 
-In the App.js file, replace the api key and base url placeholder obtained from signing up on <link href="https://www.weatherapi.com/" target="_blank">WeatherAPI</link>
+In the App.js file, replace the api key and base url placeholder obtained from signing up on <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a>
 
 To run the React.js project, follow these steps:
 
-1. Ensure you have Node.js installed on your system. If not, you can download it from the official <link href="https://nodejs.org" target="_blank">Node JS</link> website.
+1. Ensure you have Node.js installed on your system. If not, you can download it from the official <a href="https://nodejs.org" target="_blank">Node JS</a> website.
 2. Clone this repository to your local machine using the following command:
 
 ```bash
